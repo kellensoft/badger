@@ -1,0 +1,2 @@
+# badger
+Go Authentication Service
